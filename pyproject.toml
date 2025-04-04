@@ -1,0 +1,5 @@
+[project]
+name = "aibrokers"
+version = "0.1.0"
+description = "The first real-world AI hedge fund framework in crypto, fully open source!"
+requires-python = ">=3.10"
