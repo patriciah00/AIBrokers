@@ -5,3 +5,4 @@ description = "The first real-world AI hedge fund framework in crypto, fully ope
 requires-python = ">=3.10"
 # guard against empty input
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
