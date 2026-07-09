@@ -29,3 +29,4 @@ Notes and usage details for AIBrokers.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
